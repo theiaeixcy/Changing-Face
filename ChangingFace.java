@@ -86,7 +86,7 @@ public class ChangingFace extends Application {
         
         // add the scene to the stage, then set the title
         stage.setScene(scene);
-        stage.setTitle("Changing Face");
+        stage.setTitle("Queenie Edurece");
         
         // show the stage
         stage.show();
